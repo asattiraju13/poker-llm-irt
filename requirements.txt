@@ -1,0 +1,24 @@
+# Pip-only fallback (mirrors environment.yml). Prefer `conda env create -f environment.yml`.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+tqdm
+pyyaml
+python-dotenv>=1.0
+pydantic>=2.6
+datasets>=2.18
+huggingface_hub>=0.23
+together>=1.3
+openai>=1.40
+anthropic>=0.40
+google-genai>=0.3
+modal>=0.66
+tenacity>=8.2
+torch>=2.2
+pyro-ppl>=1.9
+py-irt>=0.5
