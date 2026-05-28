@@ -90,7 +90,6 @@ poker-llm-irt/
 │   └── responses/              # per-(model, run) parquet response shards
 ├── outputs/
 │   └── main_11k_seed42_7models/# 7-model run artifacts (paper)
-├── paper/                      # LaTeX source
 └── environment.yml
 ```
 
