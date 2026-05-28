@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project-specific ---
+.DS_Store
+data/raw/
+data/cache/
+outputs/
+runs/
+wandb/
+*.parquet
+*.arrow
+!data/responses/.gitkeep
